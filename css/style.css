@@ -1,0 +1,482 @@
+.headera .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.review .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolio .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.team .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.company .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.contactus .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.headera
+{
+	background-color:plum;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.headera .headera-fc .heada
+{
+	background-color:lightgray;
+	height:65px;
+	width:30%;
+	margin-top:10px;
+}
+.headera .headera-fc .hcon
+{
+	background-color:plum;
+	height:81px;
+	width:50%;
+	display:flex;
+	justify-content:space-evenly;
+}
+.headera .headera-fc .hcon .headb
+{
+	background-color:powderblue;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .headc
+{
+	background-color:powderblue;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .headd
+{
+	background-color:powderblue;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .heade
+{
+	background-color:powderblue;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+
+.logo 
+{
+	background-color:lightskyblue;
+	height:611px;
+}
+.logo .logo-fc
+{
+display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.logo .logo-fc .logob
+{
+	background-color:pink;
+	height:211px;
+	width:60%;
+	margin-top:100px;
+}
+
+.logo .logo-fc .logobox
+{
+	background-color:gray;
+	height:43px;
+	width:15%;
+	margin-top:100px;
+}
+.review
+{
+	background-color:lime;
+	height:600px;
+}
+.review .review-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.review .review-fc .reviewtext
+{
+	text-align:center;
+	width:100%;
+	margin-top:50px;
+}
+.review .review-fc .reviewa
+{
+	background:plum;
+	height:304px;
+	width:31%;
+	margin-top:100px;
+}
+.review .review-fc .reviewb
+{
+	background:blue;
+	height:304px;
+	width:31%;
+	margin-top:100px;
+}
+.review .review-fc .reviewc
+{
+	background:plum;
+	height:304px;
+	width:31%;
+	margin-top:100px;
+}
+.portfolio
+{
+	background-color:lime;
+	height:900px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.portfolio .portfolio-fc .textport
+{
+	text-align:center;
+	width:100%;
+	margin-top:10px;
+}
+.portfolio .portfolio-fc .porta
+{
+		background-color:white;
+		height:390px;
+		width:31%;
+		margin-top:30px;
+}
+.portfolio .portfolio-fc .portb
+{
+		background-color:plum;
+		height:390px;
+		width:31%;
+		margin-top:30px;
+}
+.portfolio .portfolio-fc .portc
+{
+		background-color:white;
+		height:390px;
+		width:31%;
+		margin-top:30px;
+}
+.portfolio .portfolio-fc .portd
+{
+		background-color:plum;
+		height:390px;
+		width:31%;
+		margin-top:30px;
+}
+.portfolio .portfolio-fc .porte
+{
+		background-color:white;
+		height:390px;
+		width:31%;
+		margin-top:30px;
+}
+.portfolio .portfolio-fc .portf
+{
+		background-color:plum;
+		height:390px;
+		width:31%;
+		margin-top:30px;
+}
+.paritur
+{
+		background-color:lightskyblue;
+		height:300px;
+}
+.paritur .paritur-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+} 
+.paritur .paritur-fc .pbox
+{
+	background-color:plum;
+	width:20%;
+	height:200px;
+	margin-top:25px;
+}
+.paritur .paritur-fc .ptext
+{
+	text-align:center;
+    margin-top:25px;
+} 
+.paritura
+{
+		background-color:lightskyblue;
+		height:300px;
+}
+.paritura .paritura-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+} 
+.paritura .paritura-fc .pabox
+{
+	background-color:pink;
+	width:20%;
+	height:200px;
+	margin-top:25px;
+}
+.paritura .paritura-fc .patext
+{
+	text-align:center;
+    margin-top:25px;
+} 
+.pariturb
+{
+	background-color:lightskyblue;
+	height:300px;
+}
+.pariturb .pariturb-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+} 
+.pariturb .pariturb-fc .pbbox
+{
+	background-color:pink;
+	width:20%;
+	height:200px;
+	margin-top:25px;
+}
+.pariturb .pariturb-fc .pbtext
+{
+	text-align:center;
+    margin-top:25px;
+} 
+.pariturc
+{
+	background-color:lightskyblue;
+	 height:300px;
+}
+.pariturc .pariturc-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+} 
+.pariturc .pariturc-fc .pcbox
+{
+	background-color:pink;
+	width:20%;
+	height:200px;
+	margin-top:25px;
+}
+.pariturc .pariturc-fc .pctext
+{
+	text-align:center;
+    margin-top:25px;
+} 
+.team
+{
+	background-color:plum;
+	height:581px;
+}
+.team .team-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.team .team-fc .textteam
+{
+	text-align:center;
+	width:100%;
+	margin-top:40px;
+}
+.team .team-fc .teama
+{
+		background-color:lightskyblue;
+		height:232px;
+		width:31%;
+		margin-top:50px;
+}
+.team .team-fc .teamb
+{
+	background-color:lightskyblue;
+	height:232px;
+	width:31%;
+	margin-top:50px;
+}
+.team .team-fc .teamc
+{
+		background-color:lightskyblue;
+		height:232px;
+		width:31%;
+		margin-top:50px;
+}
+.company 
+{
+	background-color:lightskyblue;
+	height:150px;
+}
+.company .company-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.company .company-fc .cba
+{
+	background-color:white;
+	height:76px;
+	width:18%;
+	margin-top:20px;
+}
+.company .company-fc .cbb
+{
+	background-color:blue;
+	height:76px;
+	width:18%;
+	margin-top:20px;
+}
+.company .company-fc .cbc
+{
+	background-color:white;
+	height:76px;
+	width:18%;
+	margin-top:20px;
+}
+.company .company-fc .cbd
+{
+	background-color:blue;
+	height:76px;
+	width:18%;
+	margin-top:20px;
+}
+.company .company-fc .cbe
+{
+	background-color:white;
+	height:76px;
+	width:18%;
+	margin-top:20px;
+}
+.contactus
+{
+	background-color:plum;
+	height:615px;
+}
+.contactus .contactus-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	flex-wrap:wrap;	
+}
+.contactus .contactus-fc .context
+{
+	text-align:center;
+	margin-top:10px;
+	width:100%;
+}
+.contactus .contactus-fc .cona
+{
+	background-color:blue;
+	height:500px;
+	width:46%;
+	margin-top:10px;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;	
+	justify-content:space-evenly;	
+}
+.contactus .contactus-fc .cona .conaa
+{
+	background-color:white;
+	height:100px;
+	width:100%;
+	margin-top:20px;
+}
+.contactus .contactus-fc  .cona .conab
+{
+	background-color:white;
+	height:100px;
+	width:100%;
+	margin-top:20px;
+}
+.contactus .contactus-fc .cona .conac
+{
+	background-color:white;
+	height:100px;
+	width:100%;
+	margin-top:20px;
+}
+.contactus .contactus-fc .conb
+{
+	background-color:white;
+	height:500px;
+	width:46%;
+	margin-top:10px;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;	
+	justify-content:space-evenly;
+		
+}
+.contactus .contactus-fc .conb .conba
+{
+	background-color:blue;
+	height:30px;
+	width:40%;
+	margin-top:400px;
+}
+.website
+{
+	background-color :lightskyblue;
+	height:100px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.website .website-fc .copyright
+{
+	background-color:mistyrose;
+	width:15%;
+	height:35px;
+	margin-top:50px;
+}
